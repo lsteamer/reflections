@@ -24,6 +24,11 @@ You take all of the commits and branches and make a snapshot of them
 Branches is for when you want to take a different path on developing.
 Simple really.
 
+-What is the benefit of having a copy of the last know state of the remote stored locally?
+
+It will compare (When merging) if new changes were made on the remote, and will react accordingly. 
+
+Otherwise, if the remote gets updated, it will not be able to tell where the divergence happened.
 
 
 
