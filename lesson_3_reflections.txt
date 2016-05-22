@@ -11,6 +11,19 @@ The girls explained that sometimes you don't want to share your changes yet. Whi
 But also, there might be issues with integration of code when merging if GitHub was to do it all the time.
 Maybe you don't want a Branch to be uploaded.
 
+-Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forks are used when you are working on someone else's code, and you want to make it your own.
+It keeps the original code referenced, but you can now work on it.
+It's sort of like 'cloning' within GitHub
+
+Cloning is used to move projects from one repository to another. 
+You take all of the commits and branches and make a snapshot of them
+
+Branches is for when you want to take a different path on developing.
+Simple really.
+
 
 
 
