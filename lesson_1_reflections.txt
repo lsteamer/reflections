@@ -1,0 +1,44 @@
+-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+There is no other way for a bug to occur but through change.
+So we simply focus on the lines that changed, different versions.
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I would be able to look back, and see where the implementation of a feature got done.
+Then, I would know when I'm implementing correctly that feature.
+Seeing mistakes.
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saves, like Google does?
+
+An advantage of having a system that saves all the time is that everything is there.
+You can go and rethread your steps to see exactly what you did and what brought you there.
+A disadvantage to this would be the size of your versions would grow too big to mantain,
+and, unless it exists, you're unable to check important points on the history of the file.
+
+Which is an advantage in GIT. Being able to save when you want gives you the option to name the "save-points",
+So you'll have a way-point to go forward.
+
+-Why do you think some version control systems, like Git, allow saving multimple files in one commit,
+while others, like Googe Docs, treat each file separately?
+
+Multiple files are vital for a Developer enviroment. Because several files are interconnected. 
+An Object Oriented paradigm would need to have several files and the commits need to cover all of them.
+
+-How can you use the commands git log and git diff to view the history of files?
+
+Provided there is a commit every time the file is saved, 
+I would be able to have a copy of the way the file progressed. 
+
+-How might using version control make you more confident to make changes that could break something?
+
+Coming back to a totally functional version of the code will allow coders to be more daring when breaking stuff.
+You can always go back, with the commits as flags, and see where you fucked up.
+
+-Now that you have your workspace set up, what do you want to try using Git for?
+
+Programming, really.
+I wanna get to know GitHub so I can start with android. 
+yo'
+I fear this will not be useful working with more people, but we'll see.
