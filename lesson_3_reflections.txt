@@ -2,3 +2,15 @@
 
 When I'm working with more than one person or I'm working on more than one computer.
 When I'm ready to share my progress with more people/The world.
+
+-Why might you want to always pull changes manually rather than having Git automatically stay
+up-to-date with your remote repository?
+
+Well.
+The girls explained that sometimes you don't want to share your changes yet. Which is valid.
+But also, there might be issues with integration of code when merging if GitHub was to do it all the time.
+Maybe you don't want a Branch to be uploaded.
+
+
+
+
