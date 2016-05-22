@@ -30,5 +30,20 @@ It will compare (When merging) if new changes were made on the remote, and will 
 
 Otherwise, if the remote gets updated, it will not be able to tell where the divergence happened.
 
+-How would you collaborate without using Git or GitHub?
+What would be easier and what would be harder?
 
+A mess
+I've collaborated before but I never had this methodology for Version Control.
+You would just pass files, one to another, making manual backups, managing in the Chaos.
 
+I went to University, Started going almost 14 years ago, but still, I was never told about this.
+Nor anything similar.
+
+That was fucked up. 
+
+-When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+The obvious one being, master should be left alone as a functional 'round' thing.
+Orther branches can be experimental.
